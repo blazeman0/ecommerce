@@ -1,0 +1,10 @@
+"sizes": [
+"S",
+"M",
+"L",
+"XL"
+],
+
+
+item.sizses[1]
+sizses[1]

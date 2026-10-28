@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flexRow {
+  @apply flex  items-center;
+}
+.info {
+  @apply font-semibold;
+}
+
+.icons {
+  @apply text-white  text-2xl cursor-pointer;
+}
+.icon {
+  @apply text-xl cursor-pointer;
+}
+
+.pag {
+  @apply bg-white text-black border-2  border-black p-2 rounded-md font-semibold hover:scale-105 hover:bg-black hover:text-white transition ease-in-out duration-500 cursor-pointer;
+}
